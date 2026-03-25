@@ -6,6 +6,6 @@ The project focuses on building a playful yet marketable beverage identity throu
 
 Related images:
 ![image alt](https://github.com/ganbo-arch/Fruitzu-drink-project/blob/7ccdc10fc6084f23d7d0b24c887bfc99ff39d3c4/Project%20collage)
-![image alt](https://github.com/ganbo-arch/Fruitzu-drink-project/blob/b0920b980afac2bbf9e838ba9645c9cc6badf21f/Fruitzu%20Pomegranate%20flavor%20%20Poster)
+![image alt](https://github.com/ganbo-arch/Fruitzu-drink-project/blob/54c6fa0a299bdd3d256113d485aa9a029579995d/Screenshot%202026-03-25%20123205.png)
 ![image alt](https://github.com/ganbo-arch/Vox-Chain/blob/5ce3bb2f399ea201c124b001c35d2f50d3bfe33b/Screenshot%202026-03-25%20104504.png)
 ![image alt](https://github.com/ganbo-arch/Vox-Chain/blob/5ce3bb2f399ea201c124b001c35d2f50d3bfe33b/Screenshot%202026-03-25%20104504.png)
